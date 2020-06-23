@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789303235223",
+    "firebase_url": "https://opin1on8-d41d8.firebaseio.com",
+    "project_id": "opin1on8-d41d8",
+    "storage_bucket": "opin1on8-d41d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789303235223:android:4fb2849c8da71b21484fd2",
+        "android_client_info": {
+          "package_name": "com.opin1on8.opin1on8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789303235223-18kes8udntqqj4jlpljoafjt2v7b9bo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1qp1wXjEfYEUIKAs0lI8-XobXYJ79FsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789303235223-18kes8udntqqj4jlpljoafjt2v7b9bo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
